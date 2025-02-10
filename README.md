@@ -13,9 +13,9 @@ el framework web por excelencia en Python, con el fin de poder mostrar los datos
 - [Código](https://github.com/Uxio0/django-gpul-raspberry)
 
 ## 2017: Programación de emuladores de videojuegos
-![image](https://github.com/user-attachments/assets/ddd69972-0ad1-4e69-811a-9021014a7c82)
-
 _Debemos emular máquinas que nos permitan emular otras máquinas, porque lo que nunca hará una máquina es emular otras máquinas_
+
+![image](https://github.com/user-attachments/assets/ddd69972-0ad1-4e69-811a-9021014a7c82)
 
 ¿Nunca has pensado en cómo se programa un emulador?
 
